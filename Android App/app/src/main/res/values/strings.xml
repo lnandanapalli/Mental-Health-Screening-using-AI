@@ -1,0 +1,28 @@
+<resources>
+    <!--All the string resources come here including Questions and title -->
+    <string name="app_name">Mental Health Test</string>
+    <string name="correct"><b>CORRECTNESS IS</b> \n
+						<b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="q1">Do you get angry often?</string>
+    <string name="q2">Do you spend a lot of time on the internet?</string>
+    <string name="q3">Are you addicted to smoking or alcohol?</string>
+    <string name="q4">Are you able to focus on your work?</string>
+    <string name="q5">Do you follow the rules?</string>
+    <string name="q6">Do you participate in sports?</string>
+    <string name="q7">Do you worry a lot about the future?</string>
+    <string name="q8">Do you regret past mistakes?</string>
+    <string name="q9">Do you misunderstand others often?</string>
+    <string name="q10">Do you get hurt easily?</string>
+    <string name="q11">Do you like being alone?</string>
+    <string name="q12">Do you like horror movies?</string>
+    <string name="q13">Do you feel depressed often?</string>
+    <string name="q14">Do you have a lot of friends?</string>
+    <string name="q15">Do you trust people?</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+
+</resources>
